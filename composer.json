@@ -1,0 +1,10 @@
+{
+    "name": "praktikum/simpus-mini",
+    "description": "Aplikasi Sistem Perpustakaan Mini",
+    "type": "project",
+    "require": {
+        "php": "^8.2",
+        "ext-pdo": "*",
+        "ext-pdo_pgsql": "*"
+    }
+}
